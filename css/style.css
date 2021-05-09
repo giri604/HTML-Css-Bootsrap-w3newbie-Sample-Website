@@ -130,12 +130,12 @@ body {
 
 /*============= FOOTER =============*/
 
-.footer{
+footer{
   background-color: #383838;
 padding: 1rem 2rem 3rem;
 }
 
-.footer img{
+footer img{
   height: 3.5rem;
   margin: 3.5rem auto;
 }
